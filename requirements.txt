@@ -8,3 +8,4 @@ streamlit
 requests
 python-multipart
 pydantic
+altair<5
