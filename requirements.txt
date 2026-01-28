@@ -4,7 +4,7 @@ pandas
 joblib
 scikit-learn==1.5.2
 pyjwt
-streamlit
+streamlit>=1.41.0
 requests
 python-multipart
 pydantic
